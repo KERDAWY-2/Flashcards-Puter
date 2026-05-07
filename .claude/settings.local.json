@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.puter.com)",
+      "Bash(npm --version)",
+      "Bash(mkdir \"D:\\\\Upwork\\\\D- 10-min test proj\\\\flashcards-puter.js\")",
+      "Bash(mkdir \"D:\\\\Upwork\\\\D- 10-min test proj\\\\flashcards-puter.js\\\\app\")",
+      "Bash(mkdir \"D:\\\\Upwork\\\\D- 10-min test proj\\\\flashcards-puter.js\\\\components\")",
+      "Bash(mkdir \"D:\\\\Upwork\\\\D- 10-min test proj\\\\flashcards-puter.js\\\\components\\\\ui\")",
+      "Bash(mkdir \"D:\\\\Upwork\\\\D- 10-min test proj\\\\flashcards-puter.js\\\\lib\")",
+      "Bash(npm install *)",
+      "Bash(npm view *)",
+      "Bash(npx next *)",
+      "Bash(curl -sS -o NUL -w \"HTTP %{http_code}\\\\n\" http://localhost:3119/)",
+      "Bash(curl -sS http://localhost:3119/)"
+    ]
+  }
+}
